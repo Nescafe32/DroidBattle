@@ -1,6 +1,6 @@
 # DroidBattle
 
-Simple, but interesting droid battle. Both sides have 4 droids: basic, medic, explorer, killer. Droids have name, health points, evasion chance, accuracy and state (normal or stunned)  Also, all droids can hit enemies.
+Simple, but interesting droid battle. Both sides have 4 droids: basic, medic, explorer, killer. Droids have name, health points, evasion chance, accuracy and state (normal or stunned). Also, all droids can hit enemies.
 <br />
 <ol>
 <li>Basic - just attacks enemies</li>
