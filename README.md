@@ -3,9 +3,9 @@
 Simple, but interesting droid battle. Both sides have 4 droids: basic, medic, explorer, killer. Droids have name, health points, evasion chance, accuracy and state (normal or stunned). Also, all droids can hit enemies.
 <br />
 o Basic - just attacks enemies
-<br/ >
+<br />
 o Medic - attacks enemies and sometime heals concrete teammate and cansels stunning effect from them. Protected from attacks while in team more than 2 droids
-<br/ >
+<br />
 o Explorer - attacks enemies and explores their healt
 <br />
 o Killer - power of team. Has the biggest damage, can stun opponent
